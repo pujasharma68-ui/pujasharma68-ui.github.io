@@ -1,6 +1,7 @@
 ---
 title: Task Topic
 parent: Technical Writing Samples
+layout: default
 ---
 
 # Task Topic

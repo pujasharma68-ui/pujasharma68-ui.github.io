@@ -1,6 +1,7 @@
 ---
 title: Getting Started Guide
 parent: Technical Writing Samples
+layout: default
 ---
 
 # Getting Started Guide

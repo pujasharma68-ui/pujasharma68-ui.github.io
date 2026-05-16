@@ -1,6 +1,7 @@
 ---
 title: Quick Start Guide
 parent: Technical Writing Samples
+layout: default
 ---
 
 # Quick Start Guide

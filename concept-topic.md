@@ -1,6 +1,7 @@
 ---
 title: Concept Topic
 parent: Technical Writing Samples
+layout: default
 ---
 
 # Concept Topic

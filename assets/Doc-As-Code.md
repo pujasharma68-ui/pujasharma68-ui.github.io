@@ -1,6 +1,7 @@
 ---
 title: Markdown Doc-as-Code
 parent: Technical Writing Samples
+layout: default
 ---
 
 # Markdown Doc-as-Code
